@@ -10,6 +10,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		
 		int a=90;
+		
+		int b=80;
 	}
 
 }
